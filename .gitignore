@@ -1,5 +1,6 @@
 settings.py
-*.log
+*.bot.log
+draft.py
 .vscode/
 .idea/
 env/
